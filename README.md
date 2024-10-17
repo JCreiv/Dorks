@@ -1,4 +1,11 @@
-https://github.com/BullsEye0/google_dork_list
+
+![Google Dork Image](https://github.com/JCreiv/Dorks/raw/master/google_dork_list/banner_dork1.png)
+
+
+
+![Google Dork Image](https://raw.githubusercontent.com/JCreiv/Dorks/refs/heads/master/google_dork_list/banner_dork1.png)
+
+## DORKS INTERESANTES
 
 ```bash
 #PARA BUSCAR INDEX O JSON DE SITIOS QUE ACABEN EN .EDU
