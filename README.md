@@ -1,9 +1,7 @@
 
-![Google Dork Image](https://github.com/JCreiv/Dorks/raw/master/google_dork_list/banner_dork1.png)
+![Google Dork Image](https://github.com/JCreiv/Dorks/blob/master/google_dork_list/banner_dork1.png)
 
 
-
-![Google Dork Image](https://raw.githubusercontent.com/JCreiv/Dorks/refs/heads/master/google_dork_list/banner_dork1.png)
 
 ## DORKS INTERESANTES
 
